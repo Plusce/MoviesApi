@@ -1,0 +1,15 @@
+/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movie.Api.Sdk/bin/Debug/net7.0/Movie.Api.Sdk.deps.json
+/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movie.Api.Sdk/bin/Debug/net7.0/Movie.Api.Sdk.dll
+/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movie.Api.Sdk/bin/Debug/net7.0/Movie.Api.Sdk.pdb
+/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movie.Api.Sdk/bin/Debug/net7.0/Movies.Contracts.dll
+/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movie.Api.Sdk/bin/Debug/net7.0/Movies.Contracts.pdb
+/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movie.Api.Sdk/obj/Debug/net7.0/Movie.Api.Sdk.csproj.AssemblyReference.cache
+/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movie.Api.Sdk/obj/Debug/net7.0/Movie.Api.Sdk.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movie.Api.Sdk/obj/Debug/net7.0/Movie.Api.Sdk.AssemblyInfoInputs.cache
+/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movie.Api.Sdk/obj/Debug/net7.0/Movie.Api.Sdk.AssemblyInfo.cs
+/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movie.Api.Sdk/obj/Debug/net7.0/Movie.Api.Sdk.csproj.CoreCompileInputs.cache
+/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movie.Api.Sdk/obj/Debug/net7.0/Movie.Api.Sdk.csproj.CopyComplete
+/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movie.Api.Sdk/obj/Debug/net7.0/Movie.Api.Sdk.dll
+/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movie.Api.Sdk/obj/Debug/net7.0/refint/Movie.Api.Sdk.dll
+/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movie.Api.Sdk/obj/Debug/net7.0/Movie.Api.Sdk.pdb
+/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movie.Api.Sdk/obj/Debug/net7.0/ref/Movie.Api.Sdk.dll

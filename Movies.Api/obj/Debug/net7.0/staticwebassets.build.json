@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "i1LnXImIVAtkAs2rpWrW3CXiS2ES+yhQcrs6bHWsUTo=",
+  "Source": "Movies.Api",
+  "BasePath": "_content/Movies.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movies.Application/Movies.Application.csproj",
+      "Version": 2,
+      "Source": "Movies.Application",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

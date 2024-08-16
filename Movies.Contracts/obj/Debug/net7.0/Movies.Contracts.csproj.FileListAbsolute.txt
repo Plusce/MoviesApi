@@ -1,0 +1,11 @@
+/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movies.Contracts/bin/Debug/net7.0/Movies.Contracts.deps.json
+/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movies.Contracts/bin/Debug/net7.0/Movies.Contracts.dll
+/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movies.Contracts/bin/Debug/net7.0/Movies.Contracts.pdb
+/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movies.Contracts/obj/Debug/net7.0/Movies.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movies.Contracts/obj/Debug/net7.0/Movies.Contracts.AssemblyInfoInputs.cache
+/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movies.Contracts/obj/Debug/net7.0/Movies.Contracts.AssemblyInfo.cs
+/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movies.Contracts/obj/Debug/net7.0/Movies.Contracts.csproj.CoreCompileInputs.cache
+/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movies.Contracts/obj/Debug/net7.0/Movies.Contracts.dll
+/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movies.Contracts/obj/Debug/net7.0/refint/Movies.Contracts.dll
+/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movies.Contracts/obj/Debug/net7.0/Movies.Contracts.pdb
+/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movies.Contracts/obj/Debug/net7.0/ref/Movies.Contracts.dll

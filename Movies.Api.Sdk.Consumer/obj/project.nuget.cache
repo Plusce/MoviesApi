@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "7K/sVsHiB2PwRt84GgOnuaySreECul4XfGzhzkb+AfgSisFPwDwwXvLLQuKQ1Qx2yq23flFuctAtCN6oK1J0bA==",
+  "success": true,
+  "projectFilePath": "/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movies.Api.Sdk.Consumer/Movies.Api.Sdk.Consumer.csproj",
+  "expectedPackageFiles": [
+    "/Users/marcin.cholewka@schibsted.com/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "/Users/marcin.cholewka@schibsted.com/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/marcin.cholewka@schibsted.com/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/marcin.cholewka@schibsted.com/.nuget/packages/microsoft.extensions.http/8.0.0/microsoft.extensions.http.8.0.0.nupkg.sha512",
+    "/Users/marcin.cholewka@schibsted.com/.nuget/packages/microsoft.extensions.logging/8.0.0/microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "/Users/marcin.cholewka@schibsted.com/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/marcin.cholewka@schibsted.com/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "/Users/marcin.cholewka@schibsted.com/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/marcin.cholewka@schibsted.com/.nuget/packages/microsoft.identitymodel.abstractions/8.0.1/microsoft.identitymodel.abstractions.8.0.1.nupkg.sha512",
+    "/Users/marcin.cholewka@schibsted.com/.nuget/packages/microsoft.identitymodel.jsonwebtokens/8.0.1/microsoft.identitymodel.jsonwebtokens.8.0.1.nupkg.sha512",
+    "/Users/marcin.cholewka@schibsted.com/.nuget/packages/microsoft.identitymodel.logging/8.0.1/microsoft.identitymodel.logging.8.0.1.nupkg.sha512",
+    "/Users/marcin.cholewka@schibsted.com/.nuget/packages/microsoft.identitymodel.tokens/8.0.1/microsoft.identitymodel.tokens.8.0.1.nupkg.sha512",
+    "/Users/marcin.cholewka@schibsted.com/.nuget/packages/refit/7.1.2/refit.7.1.2.nupkg.sha512",
+    "/Users/marcin.cholewka@schibsted.com/.nuget/packages/refit.httpclientfactory/7.1.2/refit.httpclientfactory.7.1.2.nupkg.sha512",
+    "/Users/marcin.cholewka@schibsted.com/.nuget/packages/system.identitymodel.tokens.jwt/8.0.1/system.identitymodel.tokens.jwt.8.0.1.nupkg.sha512",
+    "/Users/marcin.cholewka@schibsted.com/.nuget/packages/system.net.http.json/8.0.0/system.net.http.json.8.0.0.nupkg.sha512",
+    "/Users/marcin.cholewka@schibsted.com/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
+    "/Users/marcin.cholewka@schibsted.com/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

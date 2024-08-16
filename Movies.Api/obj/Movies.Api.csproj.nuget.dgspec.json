@@ -1,0 +1,230 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movies.Api/Movies.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movies.Api/Movies.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movies.Api/Movies.Api.csproj",
+        "projectName": "Movies.Api",
+        "projectPath": "/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movies.Api/Movies.Api.csproj",
+        "packagesPath": "/Users/marcin.cholewka@schibsted.com/.nuget/packages/",
+        "outputPath": "/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movies.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/marcin.cholewka@schibsted.com/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/Users/marcin.cholewka@schibsted.com/repos/local-nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifacts.schibsted.io/artifactory/api/nuget/nuget-local": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movies.Application/Movies.Application.csproj": {
+                "projectPath": "/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movies.Application/Movies.Application.csproj"
+              },
+              "/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movies.Contracts/Movies.Contracts.csproj": {
+                "projectPath": "/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movies.Contracts/Movies.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Asp.Versioning.Mvc": {
+              "target": "Package",
+              "version": "[7.1.1, )"
+            },
+            "Asp.Versioning.Mvc.ApiExplorer": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.17, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/marcin.cholewka@schibsted.com/.dotnet/sdk/7.0.407/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movies.Application/Movies.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movies.Application/Movies.Application.csproj",
+        "projectName": "Movies.Application",
+        "projectPath": "/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movies.Application/Movies.Application.csproj",
+        "packagesPath": "/Users/marcin.cholewka@schibsted.com/.nuget/packages/",
+        "outputPath": "/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movies.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/marcin.cholewka@schibsted.com/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/Users/marcin.cholewka@schibsted.com/repos/local-nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifacts.schibsted.io/artifactory/api/nuget/nuget-local": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/marcin.cholewka@schibsted.com/.dotnet/sdk/7.0.407/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movies.Contracts/Movies.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movies.Contracts/Movies.Contracts.csproj",
+        "projectName": "Movies.Contracts",
+        "projectPath": "/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movies.Contracts/Movies.Contracts.csproj",
+        "packagesPath": "/Users/marcin.cholewka@schibsted.com/.nuget/packages/",
+        "outputPath": "/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movies.Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/marcin.cholewka@schibsted.com/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/Users/marcin.cholewka@schibsted.com/repos/local-nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifacts.schibsted.io/artifactory/api/nuget/nuget-local": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/marcin.cholewka@schibsted.com/.dotnet/sdk/7.0.407/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

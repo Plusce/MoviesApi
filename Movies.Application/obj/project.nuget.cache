@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "H8AKQRfZJBzJmPeRCuUeuVKEQdbLQgKcO4zaE9h6g7SZobFvG1dCGronJFIwQnnR33wgunhb6ZPG74YaxabuYA==",
+  "success": true,
+  "projectFilePath": "/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movies.Application/Movies.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/marcin.cholewka@schibsted.com/.nuget/packages/dapper/2.1.35/dapper.2.1.35.nupkg.sha512",
+    "/Users/marcin.cholewka@schibsted.com/.nuget/packages/fluentvalidation/11.9.2/fluentvalidation.11.9.2.nupkg.sha512",
+    "/Users/marcin.cholewka@schibsted.com/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.9.2/fluentvalidation.dependencyinjectionextensions.11.9.2.nupkg.sha512",
+    "/Users/marcin.cholewka@schibsted.com/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/marcin.cholewka@schibsted.com/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/marcin.cholewka@schibsted.com/.nuget/packages/npgsql/7.0.7/npgsql.7.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

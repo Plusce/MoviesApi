@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Opjj63MPbUE4M+Emx+eFJ7PI8pdPXXoFcvuMlnA+ucnxeW2OLCibS2PwbQiFbu2GpbN0/GODPRRS38JIZyt4eQ==",
+  "success": true,
+  "projectFilePath": "/Users/marcin.cholewka@schibsted.com/repos/courses/RestApiCourse/Movie.Api.Sdk/Movie.Api.Sdk.csproj",
+  "expectedPackageFiles": [
+    "/Users/marcin.cholewka@schibsted.com/.nuget/packages/refit/7.1.2/refit.7.1.2.nupkg.sha512",
+    "/Users/marcin.cholewka@schibsted.com/.nuget/packages/system.net.http.json/8.0.0/system.net.http.json.8.0.0.nupkg.sha512",
+    "/Users/marcin.cholewka@schibsted.com/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
+    "/Users/marcin.cholewka@schibsted.com/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
