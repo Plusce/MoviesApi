@@ -49,7 +49,7 @@ public class MoviesController : ControllerBase
         await _movieService.CreateAsync(movie, token);
 
         await _outputCacheStore.EvictByTagAsync("movies", token);
-        
+
         var movieResponse = movie.MapToResponse();
         return CreatedAtAction(nameof(GetV1), new { idOrSlug = movieResponse.Id }, movieResponse);
     }
@@ -134,7 +134,8 @@ public class MoviesController : ControllerBase
         var options = request.MapToOptions().WithUser(userId);
         var movies = await _movieService.GetAllAsync(options, token);
         var movieCount = await _movieService.GetCountAsync(options.Title, options.YearOfRelease, token);
-        var moviesResponse = movies.MapToResponse(request.Page, request.PageSize, movieCount);
+        var moviesResponse = movies.MapToResponse(request.Page.GetValueOrDefault(PagedRequest.DefaultPage),
+            request.PageSize.GetValueOrDefault(PagedRequest.DefaultPageSize), movieCount);
         return Ok(moviesResponse);
     }
 
@@ -155,7 +156,7 @@ public class MoviesController : ControllerBase
         {
             return NotFound();
         }
-        
+
         await _outputCacheStore.EvictByTagAsync("movies", token);
 
         var movieResponse = updatedMovie.MapToResponse();
@@ -168,7 +169,6 @@ public class MoviesController : ControllerBase
     [ProducesResponseType(StatusCodes.Status404NotFound)]
     public async Task<IActionResult> Delete([FromRoute] Guid id, CancellationToken token)
     {
-        var userId = HttpContext.GetUserId();
         var deleted = await _movieService.DeleteByIdAsync(id, token);
 
         if (!deleted)
@@ -177,7 +177,7 @@ public class MoviesController : ControllerBase
         }
 
         await _outputCacheStore.EvictByTagAsync("movies", token);
-        
+
         return Ok(deleted);
     }
 }
